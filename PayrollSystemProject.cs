@@ -10,8 +10,6 @@ Calcular las deducciones mediante el uso de funciones  (AFP, SS, ISR) para cada 
 Mediante un procedimiento, deberá mostrar reporte similar a la imagen suministrada;
 Utilizar acumuladores para los diferentes totales generales.*/
 
-
-
 using System;
 
 namespace ConsoleApp15
